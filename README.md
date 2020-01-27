@@ -15,5 +15,5 @@ python toi_epaper_download.py
 </code></pre>
 
 <br />
-<b><a href="https://github.com/tebbythomas/TOI_E-Paper_Download_Script">Video Link - Screen Capture of Script in execution<b><br/>
+<b><a href="https://www.youtube.com/watch?v=9XDxnPHAB_E">Video Link - Screen Capture of Script in execution<b><br/>
 
