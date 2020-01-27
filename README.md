@@ -13,3 +13,7 @@ Code was last tested on 27-Jan-2020 <br /> <br />
 <pre><code>
 python toi_epaper_download.py
 </code></pre>
+
+<br />
+<b><a href="https://github.com/tebbythomas/TOI_E-Paper_Download_Script">Video Link - Screen Capture of Script in execution<b><br/>
+
